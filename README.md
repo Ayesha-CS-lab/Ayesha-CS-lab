@@ -58,7 +58,8 @@ I'm a **Frontend Software Engineer** with 2+ years of experience building scalab
 ## 🏆 HIGHLIGHTS
 
 | 🚀 2+ Years Frontend Dev | 🏗️ 6+ Production Admin Panels Shipped | 🌍 Dubai Real Estate Sector  |
-|---|---|---|---|
+
+
 | Production apps, CRMs & dashboards | AtSEA, VEOR, Autopie, PCI, Preferental & more | ThinkRealty website + full in-house CRM 
 
 
