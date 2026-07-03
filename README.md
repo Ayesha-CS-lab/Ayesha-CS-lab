@@ -17,8 +17,8 @@
 I'm a **Frontend Software Engineer** with 2+ years of experience building scalable, responsive web apps, CRMs, and admin panels — including production systems serving Dubai's luxury real estate sector.
 
 - 💻 Currently building and maintaining the **ThinkRealty CRM & Admin Panel** (Dubai real estate market) — listings, leads, analytics, HR, finance, and contracts modules
-- 🌱 Currently learning **backend development with Node.js** to round out my full-stack skill set
-- 🌐 Specialised in **Next.js, React.js & TypeScript**, with bilingual (English/Arabic) UI delivery
+- 🌱 In mean time, learning **backend development with Node.js** to round out my full-stack skill set
+- 🌐 Specialised in **Next.js, React.js & TypeScript**, with responsive UI delivery
 - 🎓 BS Computer Science, Lahore College for Women University
 - 🧪 Exploring **AI/ML** on the side — my FYP applies deep learning to lung cancer detection from CT scans
 - 🧠 Interested in: Frontend architecture, real-time dashboards, and full-stack development
@@ -46,36 +46,21 @@ I'm a **Frontend Software Engineer** with 2+ years of experience building scalab
 | Secure file-upload & validation platform driving automated WhatsApp messaging from Excel input data, with a React Query-powered dashboard integrated over RESTful APIs. | Final Year Project: deep learning model for lung cancer detection from CT scan images, with full experiment tracking, checkpoints, and evaluation reporting. |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
+| 🌐 **[Personal Portfolio](https://github.com/Ayesha-CS-lab/Personal-Portfolio)** | 🛡️ **[Cyberbullying Detection](https://github.com/Ayesha-CS-lab/cyberbulling-detection)** |
+|---|---|
+| My personal portfolio website showcasing projects, skills, and experience with a clean, responsive UI. | Deep learning framework for detecting cyberbullying across Urdu, Roman Urdu & English text — multimodal (text + image) architecture combining mBERT/MuRIL transformers with a ResNet50 attention-based fusion model. |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+
 > 👉 See pinned repos below for live demos and code!
 
 ---
 
 ## 🏆 HIGHLIGHTS
 
-| 🚀 2+ Years Frontend Dev | 🏗️ 6+ Production Admin Panels Shipped | 🌍 Dubai Real Estate Sector | 🌐 Bilingual EN/AR Delivery |
+| 🚀 2+ Years Frontend Dev | 🏗️ 6+ Production Admin Panels Shipped | 🌍 Dubai Real Estate Sector  |
 |---|---|---|---|
-| Production apps, CRMs & dashboards | AtSEA, VEOR, Autopie, PCI, Preferental & more | ThinkRealty website + full in-house CRM | Public-facing portals for international buyers |
+| Production apps, CRMs & dashboards | AtSEA, VEOR, Autopie, PCI, Preferental & more | ThinkRealty website + full in-house CRM 
 
----
-
-## 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-CS-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-CS-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayesha-CS-lab&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-![github contribution grid snake animation](https://github.com/Ayesha-CS-lab/Ayesha-CS-lab/raw/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## 🛠 TECH STACK
 
@@ -99,6 +84,11 @@ I'm a **Frontend Software Engineer** with 2+ years of experience building scalab
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **State & Data**
 
